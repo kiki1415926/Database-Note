@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Contents](README.md)
+* [Introduction](introduction.md)
 * [Relational Model](relational-model.md)
 
